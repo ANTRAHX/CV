@@ -1,0 +1,25 @@
+/* === FARBEN ===
+#F2DEBA
+#FFEFD6
+#0E5E6F
+#3A8891
+*/
+
+
+body {
+    background-color: #FFEFD6;
+}
+
+
+/* === GENERELLES === */
+
+hr {
+    border-style: none;
+    border-top: dotted #FFf;
+    border-width: 5px;
+    width: 8%;
+}
+
+.img-radius {
+    border-radius: 50%;
+}
